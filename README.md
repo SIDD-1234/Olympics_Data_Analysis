@@ -11,35 +11,47 @@ An interactive data analysis and visualization project based on historical Olymp
 
 <h2>Overview</h2>
 
-+Initial Dashboard
+## Initial Dashboard
 
-![Medal Tally](static/Picture1.png)
+![Initial Dashboard](static/Picture1.png)
 
-+ Medal Tally (Overview dashboard)
+## Medal Tally (Overview dashboard)
 
-![Medal Tally](static/Picture1.png)
+![Medal Tally](static/Picture2.png)
 
-+ Overall Analysis
+## Overall Analysis
 
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
+| Top Statistics | Participating Nations Over The Years |
+|------------|------------|
+| ![Overall Analysis](static/Picture3.png) | ![Overall Analysis](static/Picture4.png) |
 
-+ Country-wise Analysis
+| Events Over The Years | Athletes Over The Years |
+|------------|------------|
+| ![Overall Analysis](static/Picture5.png) | ![Overall Analysis](static/Picture6.png) |
 
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
+| Number Of Events Over Time (Every Sport) | Most Successful Athletes |
+|------------|------------|
+| ![Overall Analysis](static/Picture7.png) | ![Overall Analysis](static/Picture8.png) |
 
-+ Athlete-wise Analysis
+## Country-wise Analysis
 
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
-![Medal Tally](static/Picture1.png)
+| Medal Tally Over The Years | Top 10 Athletes |
+|------------|------------|
+| ![Medal Tally](static/Picture9.png) | ![Medal Tally](static/Picture11.png) |
+
+| Country's Excellence In Sports (Overall) |
+|-------------|
+| ![Medal Tally](static/Picture10.png) |
+
+## Athlete-wise Analysis
+
+| Distribution Of Age | Distribution Of Age w.r.t Sports (Gold Medalist) |
+|------------|------------|
+| ![Medal Tally](static/Picture12.png) | ![Medal Tally](static/Picture13.png) |
+
+| Height VS Weight | Men VS Women Participation Over The Years |
+|------------|------------|
+| ![Medal Tally](static/Picture14.png) | ![Medal Tally](static/Picture15.png) |
 
 <h2>📌 Project Objective</h2>
 
